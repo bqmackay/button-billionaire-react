@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.upgrade_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.employee, .employee_upgrade {
+  padding: 10px;
+  border: solid #61dafb ;
+}
